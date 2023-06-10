@@ -1,3 +1,6 @@
+---
+title: "Roadmap to Stronger AI"
+---
 
 The discussion of the future of AI that I see focusses a great deal on issues like “is it AGI or not” and “is it sentient”.  I just don’t think though are helpful, in part because while I’m incredibly impressed by things like GPT-4, I think there are many more advances ahead of us before those become the immediate problems.  Instead, let me try to lay out a plausible sequence of AI capabilities starting from where we are now that would get us to the point that those discussions matter, going step by step through out long-term roadmap.
 
